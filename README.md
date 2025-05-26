@@ -1,3 +1,5 @@
+# Moved to https://codeberg.org/icewind/logsmash
+
 # logsmash
 
 Analysis tool for Nextcloud logs files
